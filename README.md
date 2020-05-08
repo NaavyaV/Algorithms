@@ -1,2 +1,2 @@
 # Algorithms
-bounceOff, isTouching
+bounce, isTouching

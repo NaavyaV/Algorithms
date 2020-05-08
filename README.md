@@ -1,2 +1,2 @@
-# Algorithms
-bounce, isTouching
+# collisionAlgorithm
+Algorithm to detect collision between two objects
